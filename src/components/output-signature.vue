@@ -6,9 +6,9 @@
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0; border-left: 0;">
               <a href="https://www.junkluggers.com/">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2714/junkluggers-output-logos-updated.png" name="preview-image-url" />
+                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2714/junkluggers-output-logo.png" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="180" height="113" style="width: 180px; max-width: 180px !important; height: 113px; max-height: 113px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2714/junkluggers-output-logos-updated.png" name="preview-image-url" /> 
+                <img v-show="!mobilePhoneSwitch" width="180" height="113" style="width: 180px; max-width: 180px !important; height: 113px; max-height: 113px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2714/junkluggers-output-logo.png" name="preview-image-url" /> 
               </a>
             </td> 
             
