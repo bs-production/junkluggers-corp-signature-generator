@@ -87,64 +87,11 @@
                       &nbsp;&nbsp;
                     </td>
                   </tr>
-                                  <tr>
-                  <td colspan="2" style="padding-top: 5px;">
-                    <a href="https://www.facebook.com/TheJunkluggers/" target="_blank" style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
-                    height="25" style=
-                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/2714/fb-icon.png" /></a>
-                    
-                    <!-- <a href="https://www.linkedin.com/company/larry-janeskys-healthy-basement-systems" target="_blank" style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
-                    height="25" style=
-                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png" /></a> -->
-                    
-                    <!-- <a href="https://g.page/mid-state-basement-systems-oh/review?rc" target="_blank"
-                    style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
-                    height="25" style=
-                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" /></a> -->
-                    <a href="https://twitter.com/junkluggers" target="_blank"
-                    style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
-                    height="25" style=
-                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/2714/twitter-icon.png" /></a>
-                    <a href="https://www.instagram.com/thejunkluggers/" target="_blank"
-                    style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
-                    height="25" style=
-                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/2714/insta-icon.png" /></a>
-                    <a href="https://www.youtube.com/channel/UCjQQKzxNw-0n-xGx90D8sLg" target="_blank"
-                    style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
-                    height="25" style=
-                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/2714/yt-icon.png" /></a>
-                    <!-- <a href="https://www.tiktok.com/@healthybasementsystems?lang=en" target="_blank"
-                    style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
-                    height="25" style=
-                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src=
-                    "https://cdn.treehouseinternetgroup.com/cms_images/48/tiktok-icon.png" /></a> -->
-                  </td>
-                </tr>
               </table>
             </td>
           </tr>
         </table>
-        <p style="font-size: 10px; color: #000; line-height: 12px;text-align: left; width: 450px" width="450">This message contains confidential information and is intended only for the intended recipients. If you are not an intended recipient you should not disseminate, distribute or copy this e-mail. Please notify us immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. Therefore we do not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.</p>
+        <p style="font-size: 9px; color: #aaaaaa; line-height: 11px;text-align: left; width: 450px" width="450">Independently Owned and Operated Franchise. This message contains confidential information and is intended only for the intended recipients. If you are not an intended recipient you should not disseminate, distribute or copy this e-mail. Please notify us immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. Therefore we do not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.</p>
     </section>
   </div>
 </template>
